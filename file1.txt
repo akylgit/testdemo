@@ -1,0 +1,5 @@
+Source file1	
+this is git file.txt
+this is staged 
+file has syntax error
+
